@@ -1,0 +1,8 @@
+AMD
+wget -O install.sh 'https://api.nknx.org/fast-deploy/install/0127576e-0163-4cbc-af5a-0601e399bcce/linux-amd64/My-Node-1'; bash install.sh
+ARM
+wget -O install.sh 'https://api.nknx.org/fast-deploy/install/0127576e-0163-4cbc-af5a-0601e399bcce/linux-armv6/My-Node-1'; bash install.sh
+
+wget -O install.sh 'https://api.nknx.org/fast-deploy/install/0127576e-0163-4cbc-af5a-0601e399bcce/linux-armv7/My-Node-1'; bash install.sh
+
+!END!
